@@ -7,7 +7,7 @@ A collection of 16x16 pixels icons, for use in KeePass and similar software.
 ## description
 All icons are in PNG format, optimized to take up as little storage space as possible keeping original visual and colors or with imperceptible changes if this contributes to reduce the file size. As a result, your password databases will grow very little using these icons.
 
-The collection currently has 106 icons, with an average size of just 417 bytes per icon. If you can't find icons for popular services or software that you use, open an issue or contact me, reporting the url of the site or software, and I'll be happy to add these icons to the collection.
+The collection currently has 126 icons, with an average size of just 427 bytes per icon. If you can't find icons for popular services or software that you use, open an issue or contact me, reporting the url of the site or software, and I'll be happy to add these icons to the collection.
 
 From time to time companies change their icons. In case I notice, I'll update them in the collection and make tags. If you still prefer to use the old icons, you can download a zip from older tags.
 
