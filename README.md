@@ -11,7 +11,7 @@ The collection currently has more than 200 icons. All icons are in PNG format, o
 | dimensions | file size | status | comment                                                                                    |
 |:----------:|:---------:|:------:|--------------------------------------------------------------------------------------------|
 |    16x16   |   ~380 B  |  base  | Recomended for PC versions of KeePass. Smallest file size and may look ugly on smartphone. |
-|    32x32   |   ~600 B  |  100%  | It presents a good visual gain on smartphones, without increasing too much the file size.  |
+|    32x32   |   ~780 B  |  100%  | It presents a good visual gain on smartphones, without increasing too much the file size.  |
 |    48x48   |     ?     | maybe? | I'm still analyzing if it's worth the effort for this dimension.                           |
 |    64x64   |     ?     |   0%   | Planned. Beautiful on lowend smartphones without requiring so much processing power.       |
 |   128x128  |     ?     |   0%   | Planned. Extremely beautiful on highend smartphones but larger file sizes per icon.        |
