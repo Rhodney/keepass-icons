@@ -1,5 +1,5 @@
 # keepass-icons
-A collection of icons from popular services or softwares, optimized for use in KeePass and similar apps.
+A collection of icons from popular services or apps, optimized for use in KeePass and similar software.
 
 ## examples
 ![Some example icons](/examples.png "Example icons")
