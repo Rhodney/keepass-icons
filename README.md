@@ -5,15 +5,15 @@ A collection of icons from popular services or apps, optimized for use in KeePas
 ![Some example icons](/examples.png "Example icons")
 
 ## description
-The collection currently has more than 200 icons. All icons are in PNG format, optimized for the smallest possible file size, keeping original visual and colors or with imperceptible changes if this contributes to reduce the file size. As a result, your password databases will grow little using these icons.
+The collection currently has more than 250 icons. All icons are in PNG format, optimized for the smallest possible file size, keeping original visual and colors or with imperceptible changes if this contributes to reduce the file size. As a result, your password databases will grow little using these icons.
 
 ## about sizes
 | dimensions | file size | status | comment                                                             |
 |:----------:|:---------:|:------:|---------------------------------------------------------------------|
 |    16x16   |   ~380 B  |updated | Smallest file size. Recomended for use with PC versions of KeePass. |
-|    32x32   |   ~773 B  |updated | Some visual gain on smartphones, without increasing size too much.  |
-|    64x64   |  ~1868 B  | 15/249 | Looks good on low-end smartphones without requiring so much power.  |
-|   128x128  |  ~4347 B  | 15/249 | Extremely beautiful on high-end smartphones, but larger file sizes. |
+|    32x32   |   ~770 B  |updated | Some visual gain on smartphones, without increasing size too much.  |
+|    64x64   |  ~1350 B  | 67/258 | Looks good on low-end smartphones without requiring so much power.  |
+|   128x128  |  ~2750 B  | 67/258 | Extremely beautiful on high-end smartphones, but larger file sizes. |
 
 KeePass PC versions show icons in 16x16 pixels, which is great for PC or notebook use. However, these small icons may don't look good on smartphones because of the larger UI elements. If you use KeePass only on a smartphone and want better looking icons, use a collection with larger dimensions, but keep in mind that this will increase your database size.
 
